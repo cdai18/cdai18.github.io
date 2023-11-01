@@ -1,0 +1,28 @@
+---
+title: "Christina Dai"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# welcome to my website whoo
+
+Me (20 some years ago):
+
+![](images/IMG_2609.jpg)
+
+# Resume
+
+[Click to see my resume](about.html)
+
+
+
+
+
+
+
+
+
+
+

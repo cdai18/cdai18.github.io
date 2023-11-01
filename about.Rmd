@@ -1,0 +1,74 @@
+---
+title: "Christina Dai Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# EDUCATION:
+
+Columbia Mailman School of Public Health, Class of 2024 (current) — 4.08 GPA
+
+* MPH SOCIOMEDICAL SCIENCES, BIOSTATISTICS AND DATA SCIENCE CERTIFICATE
+
+Washington University in St. Louis, Class of 2021 — 3.72 GPA
+
+* A.B. SOCIOLOGY, MINOR COMPUTER SCIENCE
+
+# RELEVANT EXPERIENCE:
+
+Graduate Intern — Dalio Center for Health Justice, NewYork-Presbyterian (June 2023 - Aug 2023)
+
+* Interviewed stakeholders such as patient navigators, community health workers, and social workers to understand social determinants of health (SDoH) need referral workflows
+* Co-created a playbook to guide SDoH referrals across the enterprise to support NewYork-Presbyterian’s overall health justice strategy
+* Authored a literature review concerning digital health literacy among patients with SDoH needs
+* Presented on finished products to senior leadership, managers, and peers
+
+Maternal and Infant Health Intern — Association of State and Territorial Health Officials (May 2022 - Aug 2022)
+
+* Authored a subject brief about the impact of COVID-19 on breastfeeding as a protective factor for maternal mental health that was published by the organization
+* Conducted 2 policy reviews to support projects on substance use disorder and maternal health
+* Collaborated with team members to plan and execute 3 webinars and learning sessions for state health officials on breastfeeding equity and SUD in pregnant people
+* Engaged with a variety of stakeholders at the federal, state, and local levels to discuss breastfeeding access and equity
+
+Servant Leader Intern — LifeWise STL Freedom School Summer Program (May 2019 - July 2019)
+
+* Prepared and delivered creative and engaging daily lesson plans to a small class of economically and educationally disadvantaged middle-schoolers
+* Worked with a team of program staff to provide enriching and practical experiences for the kids like a financial literacy seminar and gun violence rally
+
+Special Collections Project Assistant — Washington University Libraries (Oct 2018 - May 2021)
+
+* Digitized collections and exhibits and worked with large batches of audio using Audacity and Excel to preserve historically valuable materials
+* Transcribed oral histories for transgender people’s experiences from the Transgender Spectrum Conference in St. Louis
+
+# LEADERSHIP AND VOLUNTEER EXPERIENCES:
+
+Restore St. Louis Firm Foundation Ministry — Summer Program Leader (July 2020)
+
+* Worked with a small team amidst the COVID-19 pandemic to deliver programming to roughly 40 children in a community of refugees and low-SES families
+* Came up with innovative ways to make the program both fun and educational while adhering to social distancing and mask-wearing guidelines
+* Participated in daily evaluations to streamline the intersection between pandemic guidelines and serving a high-need community
+
+The Aristocats A Cappella — Co-Group Coordinator (Jan 2019-May 2021)
+
+* Organized gigs within university and city communities as well as utilized Excel and event planning software to manage scheduling for 18 group members and plan an annual Valentine’s fundraiser
+* Facilitated discussions, planned rehearsals and concerts, and acted as overseer for other leadership positions
+
+
+# AWARDS AND HONORS:
+
+Alpha Kappa Delta Sociology Honor Society, WashU Dean’s List Spring 2018 - Fall 2020, The Dr. James R. Roloff Scholarship Fall 2019 - Spring 2020
+
+# SKILLS:
+
+Microsoft Excel, PowerPoint, and Word; SAS, SPSS, qualitative interviewing, Java, R, Tableau, Mandarin Chinese
+
+
+
+
+
+
+
+
+
